@@ -102,7 +102,6 @@ Authentication Flow :
 Request Flow (Protected APIs) :
   Client Request :
   Authorization: Bearer <AccessToken>
-  
           │
           ▼
   JwtAuthenticationFilter
